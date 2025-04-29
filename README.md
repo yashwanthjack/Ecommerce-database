@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Project Title
-E-commerce Project
+E-commerce Database Platform
 
 ## Description
 This project is an E-commerce platform designed to provide users with a convenient and seamless shopping experience. It aims to offer a wide range of products, smooth checkout processes, and efficient management of orders.
@@ -22,17 +22,11 @@ This project is an E-commerce platform designed to provide users with a convenie
 ## Getting Started
 Installation
 
-## Deployed Application:
 
-Deployed on Netlify & Render..  
 
-[E-commerce](https://ecommerce-react-mysql.netlify.app/)
 
 Please Note: Application will take some time to boot up 
 
-### Clone the repository:
-
-    git clone https://github.com/ZeeshanAli-0704/E-Commerce-react-node-mysql.git
 
 ### Server Setup: 
 
