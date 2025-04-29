@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 E-commerce Project
 
@@ -117,4 +118,15 @@ If facing any issue with DB connection check connection.js for configuration
 
 
 
+=======
+# Ecommerce-database
+Ecommerce database platform project using Reactjs,MySQL,NodeJs,ExpressJS
+step #1
+cd client
+step #2
+npm start
+then go to the new terminal and change the directory to server
+npm run start
+then your project runs in the localhost:
+>>>>>>> 08472814c6564d56934ecaa1070a629b3ad19c57
 
